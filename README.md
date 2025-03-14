@@ -1,19 +1,39 @@
-## Hi there 👋
-# Hi, I'm Vinayak Motegaonkar! 👋
+<h1 align="center">Hi, I'm Vinayak Motegaonkar! 👋</h1>
+<h3 align="center">🚀 Business Analyst | Data-Driven Decision Maker | Agile Enthusiast</h3>
 
-A recent graduate with MSc in Business Analytics and Big Data from the University of Liverpool, seeking opportunities to apply data analysis and visualization skills to solve business challenges.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinayakMotegaonkar&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/VinayakMotegaonkar?label=Followers&style=social"/>
+  <img src="https://img.shields.io/github/stars/VinayakMotegaonkar?affiliations=OWNER&style=social"/>
+</p>
 
-- My recent work on Sales Insights using Database and Power BI.
-- I am actively enhancing my proficiency in SQL and Power BI.
-- All of my projects are available at [GitHub](https://github.com/VinayakMotegaonkar)
-- How to reach me: [vinayakmotegaonkar@gmail.com](mailto:vinayakmotegaonkar@gmail.com)
-- Know about my experiences: [LinkedIn](https://www.linkedin.com/in/vinayakmotegaonkar/)
-- Feel free to check out my portfolio here: [Portfolio](your-portfolio-link)
+---
 
-Connect with me:
+## 👨‍💻 **About Me**
+🎓 A recent graduate with an **MSc in Business Analytics and Big Data** from the University of Liverpool, seeking opportunities to apply **data analysis** and **visualization** skills to solve business challenges 
+## 🚀 **Skills & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20Analysis-%23007ACC.svg?&style=for-the-badge&logo=business&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?&style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-%23FF5722.svg?&style=for-the-badge&logo=agile&logoColor=white"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakmotegaonkar/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayakMotegaonkar)
+## 📬 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinayakmotegaonkar/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/VinayakMotegaonkar" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub">
+  </a>
+  <a href="mailto:vinayakmotegaonkar@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email">
+  </a>
+</p>
 
-
-
+### ✨ **Fun Fact**
+💡 "Great business analysts don’t just analyze data; they create actionable insights that drive innovation!"  
+🌎 Passionate about **technology, business strategy, and data-driven decision-making**  
