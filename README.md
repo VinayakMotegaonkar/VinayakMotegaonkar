@@ -13,19 +13,26 @@
   <img src="https://img.shields.io/badge/Agile-%23FF5722.svg?&style=for-the-badge&logo=agile&logoColor=white"/>
 </p>
 
-## 📬 **Connect with Me**
+##  **Connect with Me**
+<div align="center">
+
+###  Contact Me
+
+**<mark> 📧 vinayakmotegaonkar@gmail.com</mark>**
+
+</div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinayakmotegaonkar/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinayakmotegaonkar/" target="[_blank](https://www.linkedin.com/in/vinayakmotegaonkar/)">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
   </a>
-  <a href="https://github.com/VinayakMotegaonkar" target="_blank">
+  
+  <a href="https://github.com/VinayakMotegaonkar" target="(https://github.com/VinayakMotegaonkar)">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub">
   </a>
-  <a href="mailto:vinayakmotegaonkar@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email">
-  </a>
-</p>
+    </p>
 
 ### ✨ **Fun Fact**
 💡 "Great business analysts don’t just analyze data; they create actionable insights that drive innovation!"  
 🌎 Passionate about **technology, business strategy, and data-driven decision-making**  
+
+
