@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm Vinayak Motegaonkar! 👋</h1>
 <h3 align="center">🚀 Business Analyst | Data-Driven Decision Maker | Agile Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VinayakMotegaonkar&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/VinayakMotegaonkar?label=Followers&style=social"/>
-  <img src="https://img.shields.io/github/stars/VinayakMotegaonkar?affiliations=OWNER&style=social"/>
-</p>
-
----
-
 ## 👨‍💻 **About Me**
 🎓 A recent graduate with an **MSc in Business Analytics and Big Data** from the University of Liverpool, seeking opportunities to apply **data analysis** and **visualization** skills to solve business challenges 
 ## 🚀 **Skills & Tools**
