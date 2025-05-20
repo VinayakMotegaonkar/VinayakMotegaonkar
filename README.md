@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Vinayak Motegaonkar! 👋</h1>
-<h3 align="center">🚀 Business Analyst | Data-Driven Decision Maker | Agile Enthusiast</h3>
+<h3 align="center">🚀 Data Analyst | Data-Driven Decision Maker | </h3>
 
 ## 👨‍💻 **About Me**
-🎓 A recent graduate with an **MSc in Business Analytics and Big Data** from the University of Liverpool, seeking opportunities to apply **data analysis** and **visualization** skills to solve business challenges 
+🎓 A recent graduate with an **MSc in Business Analytics and Big Data** from the University of Liverpool, experience in Data Transformation, Reporting & Visualisation, and Data Quality Assurance, I am seeking a full-time data analyst opportunity.
 ## 🚀 **Skills & Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/Business%20Analysis-%23007ACC.svg?&style=for-the-badge&logo=business&logoColor=white"/>
